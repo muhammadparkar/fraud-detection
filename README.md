@@ -39,7 +39,7 @@ This project is designed to be production-ready and closely reflects how real-wo
 ---
 
 ## 📂 Project Structure
-
+```
 fraud-detection
 ├── app
 │   ├── main.py
@@ -57,7 +57,7 @@ fraud-detection
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
