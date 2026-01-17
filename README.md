@@ -40,27 +40,24 @@ This project is designed to be production-ready and closely reflects how real-wo
 
 ## 📂 Project Structure
 
-fraud-detection/
-│
-├── app/                  # FastAPI backend
+fraud-detection
+├── app
 │   ├── main.py
 │   └── schema.py
-│
-├── frontend/             # Streamlit frontend
+├── frontend
 │   └── streamlit_app.py
-│
-├── src/                  # ML pipeline
+├── src
 │   ├── data_loader.py
 │   ├── preprocess.py
 │   ├── train.py
 │   ├── evaluate.py
 │   └── predict.py
-│
-├── models/               # Trained model (not committed)
-├── data/                 # Dataset (not committed)
+├── models
+├── data
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
 
 ---
 
