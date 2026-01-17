@@ -188,12 +188,6 @@ This is how professional ML platforms handle data ingestion.
 
 ---
 
-## 📈 Resume Description
-
-Built a production-ready Credit Card Fraud Detection system using Random Forest and SMOTE, deployed with a FastAPI backend and Streamlit frontend, supporting batch fraud prediction via CSV upload, dynamic column mapping, and real-time fraud probability scoring.
-
----
-
 ## 📜 License
 
 This project is intended for educational and research purposes only.
